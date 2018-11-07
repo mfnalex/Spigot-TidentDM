@@ -1,0 +1,8 @@
+main: de.jeffclan.TridentDM.TridentDMPlugin
+name: TidentDM
+version: 0.1
+api-version: 1.13
+description: Allows automatic chest sorting
+authors: [mfnalex,Dyn4micUniverse]
+prefix: TridentDM
+database: false 
